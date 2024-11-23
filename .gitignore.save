@@ -1,0 +1,51 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+._*
+
+# Other
+*.bak
+*.lock
+*.directory
+*.meta
+*.mat
+*.unitypackage
+*.collab
+
+# Ignore everything by default
+/*
+
+# Allow specific folders
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# Allow all files inside allowed folders
+!Assets/**
+!ProjectSettings/**
+!Packages/**
+
+*
